@@ -1,2 +1,2 @@
-# C-E-I-R
+# C E I R
 City Environmental Issues Reporter
